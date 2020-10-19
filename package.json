@@ -12,6 +12,7 @@
   "author": "Jaypee Ignacio",
   "license": "ISC",
   "dependencies": {
-    "gremlin": "^3.4.8"
+    "gremlin": "^3.4.8",
+    "lodash": "^4.17.20"
   }
 }
