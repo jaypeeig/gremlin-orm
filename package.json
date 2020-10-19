@@ -1,0 +1,17 @@
+{
+  "name": "gremlin-crud",
+  "version": "1.0.0",
+  "description": "Sample gremlin crud operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "gremlin"
+  ],
+  "author": "Jaypee Ignacio",
+  "license": "ISC",
+  "dependencies": {
+    "gremlin": "^3.4.8"
+  }
+}
